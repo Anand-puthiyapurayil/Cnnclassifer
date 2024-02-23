@@ -1,2 +1,2 @@
 # Cnnclassifer
-Chicken Disease classifer
+Kidney Disease classifer
